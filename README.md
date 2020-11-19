@@ -1,2 +1,2 @@
-# pornhubchecker
+# phubchecker
 
